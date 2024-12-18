@@ -18,6 +18,8 @@ TO DO:
 #define MAX_COUNTERS 100
 #define MAX_LINE 1024
 
+//hi
+
 //VARIABLES
 typedef unsigned long long int u64; // for the counters
 
